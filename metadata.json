@@ -1,0 +1,5 @@
+{
+  "name": "Hotel Staff Management System",
+  "description": "A comprehensive web application to manage hotel employees, track attendance, handle payroll, and streamline HR processes. It provides role-based access for administrators, managers, and employees.",
+  "requestFramePermissions": []
+}
